@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Connector_JST") (type "KiCad") (uri "C:/Users/Jpste/Downloads/Connector_JST.pretty") (options "") (descr ""))
+)
