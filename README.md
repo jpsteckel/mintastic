@@ -2,7 +2,7 @@
 **Mintastic is a low-cost LoRa meshtastic node built as an**
 [**Altoids tin gadget**](https://www.instructables.com/10-Projects-for-Altoids-Tins "Other examples")**.**
 
-![Mintastic PCB Renger image](Images\pcb_render.png)
+![](Images/pcb_render.png)
 
 ## Abstract
 **Note: this project is still a work in progress. I plan on updating and finishing this project by early September.**
